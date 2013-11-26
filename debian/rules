@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+%:
+	dh $@
+
+override_dh_clean:
+	rm -rf openpyxl.egg-info
+	dh_clean
+
+override_dh_auto_test:
+	python setup.py test

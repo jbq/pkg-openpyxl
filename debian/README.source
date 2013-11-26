@@ -1,0 +1,17 @@
+openpyxl for Debian
+-------------------
+
+Sources of this package generated directly from git repository which was
+obtained from original mercurial repository hosted at bitbucket.  This is
+done to ease cherry picking of bugfixes and provide users (and
+debcheckout-ers) with actual sources, not source distribution.
+
+To convert hg to git repository following project was used:
+git://repo.or.cz/fast-export.git
+
+Command was:
+fast-export/hg-fast-export.sh -r ../openpyxl-hg
+
+ -- Yaroslav Halchenko <debian@onerussian.com>, Tue, 27 Jul 2010 17:07:58 -0400
+
+

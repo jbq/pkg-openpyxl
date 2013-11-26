@@ -1,0 +1,3 @@
+version=3
+http://bitbucket.org/ericgazoni/openpyxl/downloads \
+ /ericgazoni/openpyxl/get/([\d\.]*).tar.bz2

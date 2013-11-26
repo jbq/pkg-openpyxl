@@ -1,0 +1,74 @@
+openpyxl (1.7.0+ds1-1) unstable; urgency=low
+
+  * Fresh upstream release
+    - removed cover/ generated reports
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Tue, 26 Nov 2013 11:19:49 -0500
+
+openpyxl (1.6.2-1) experimental; urgency=low
+
+  * Fresh upstream release
+    - provides optional support for embedded images.
+      Adding Recommends to python-imaging
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Mon, 15 Apr 2013 10:10:17 -0400
+
+openpyxl (1.6.1+hg2-g4bff8e3-1) experimental; urgency=low
+
+  * Fresh upstream release
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Mon, 04 Feb 2013 12:08:47 -0500
+
+openpyxl (1.5.8-1) unstable; urgency=low
+
+  * Fresh upstream release
+    - fixes unittests failures in upcoming pandas 0.7.3
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Thu, 12 Apr 2012 11:20:11 -0400
+
+openpyxl (1.5.6-1) unstable; urgency=low
+
+  * Fresh upstream release
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Fri, 18 Nov 2011 15:56:52 -0500
+
+openpyxl (1.5.5-1) unstable; urgency=low
+
+  * Fresh upstream release
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Tue, 11 Oct 2011 18:02:11 -0400
+
+openpyxl (1.5.4-1) unstable; urgency=low
+
+  * Fresh upstream release
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Mon, 12 Sep 2011 16:35:25 -0400
+
+openpyxl (1.5.3+hg365-1) unstable; urgency=low
+
+  * Fresh post-release snapshot:
+    addresses LibreOffice compatibility issues
+  * Boosted standards version to 3.9.2 -- no changes
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Thu, 21 Jul 2011 14:36:21 -0400
+
+openpyxl (1.5.0-1) unstable; urgency=low
+
+  * New upstream release
+    - sources layout has changed
+    - requires Python >= 2.6 now (Closes: #603793)
+  * Boosted standards version to 3.9.1 -- no changes
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Tue, 15 Mar 2011 13:24:29 -0400
+
+openpyxl (1.1.0-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Sun, 01 Aug 2010 23:42:16 -0400
+
+openpyxl (1.0.1+hg95-1) unstable; urgency=low
+
+  * Initial release (Closes: #590536)
+
+ -- Yaroslav Halchenko <debian@onerussian.com>  Tue, 27 Jul 2010 16:40:40 -0400

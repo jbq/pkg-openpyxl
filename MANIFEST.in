@@ -1,5 +1,8 @@
 prune openpyxl/tests
-include LICENCE
-include AUTHORS
-include README
-include CHANGES
+prune openpyxl/sample
+prune openpyxl/benchmarks
+prune openpyxl/classify
+
+recursive-exclude openpyxl test_*.py tests/*.py
+
+include *.rst

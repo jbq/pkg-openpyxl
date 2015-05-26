@@ -1,3 +1,10 @@
+openpyxl (2.2.2-1caraldi1) stable; urgency=medium
+
+  * Imported Upstream version 2.2.2
+  * Do not preserve relation to printer part
+
+ -- Jean-Baptiste Quenot <jbq@cmlid.fr>  Tue, 26 May 2015 13:35:24 +0200
+
 openpyxl (1.7.0+ds1-1) unstable; urgency=low
 
   * Fresh upstream release
